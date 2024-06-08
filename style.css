@@ -45,6 +45,13 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
     padding: 1px 0px 5px 0px;
     
 }
+.video_1 {
+    padding-top: 20px;
+}
+.paragraph_break {
+    margin: 0px 1px 0px 14px;
+    padding-top: 15px;
+}
 video.video {
     width: 100%;
     height: 100%;
@@ -54,9 +61,7 @@ video.video {
     background-color: #f1f1f1;
     font-family: Arial, Helvetica, sans-serif;
 }
-.paragraph_break {
-    margin: 7px 1px 0px 14px;
-}
+
 .dummy-h1{
     padding: 10px 0px 20px 0px;
             text-align: left;
