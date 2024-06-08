@@ -47,9 +47,10 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
 }
 .video_1 {
     padding-top: 20px;
+    margin-top: 20px;
 }
 .paragraph_break {
-    margin: 0px 1px 0px 14px;
+    margin: 15px 1px 0px 14px;
     padding-top: 15px;
 }
 video.video {
